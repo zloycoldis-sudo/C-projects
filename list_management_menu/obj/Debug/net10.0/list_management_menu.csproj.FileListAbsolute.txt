@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\bin\Debug\net10.0\list_management_menu.exe
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\bin\Debug\net10.0\list_management_menu.deps.json
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\bin\Debug\net10.0\list_management_menu.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\bin\Debug\net10.0\list_management_menu.dll
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\bin\Debug\net10.0\list_management_menu.pdb
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\list_management_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\list_management_menu.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\list_management_menu.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\list_management_menu.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\list_management_menu.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\list_management_menu.dll
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\refint\list_management_menu.dll
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\list_management_menu.pdb
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\list_management_menu.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Lists\list_management_menu\obj\Debug\net10.0\ref\list_management_menu.dll
