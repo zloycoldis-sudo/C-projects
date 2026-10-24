@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\bin\Debug\net10.0\student_grade_tracker.exe
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\bin\Debug\net10.0\student_grade_tracker.deps.json
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\bin\Debug\net10.0\student_grade_tracker.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\bin\Debug\net10.0\student_grade_tracker.dll
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\bin\Debug\net10.0\student_grade_tracker.pdb
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\student_grade_tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\student_grade_tracker.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\student_grade_tracker.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\student_grade_tracker.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\student_grade_tracker.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\student_grade_tracker.dll
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\refint\student_grade_tracker.dll
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\student_grade_tracker.pdb
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\student_grade_tracker.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Lists\student_grade_tracker\obj\Debug\net10.0\ref\student_grade_tracker.dll
